@@ -10,6 +10,8 @@ Multi-agent system for **Galvanize Sustainable Capital** that operationalizes th
 
 ## Setup
 
+For full step-by-step setup on a new machine, see [SETUP.md](SETUP.md).
+
 1. **Clone and install**
 
    ```bash
